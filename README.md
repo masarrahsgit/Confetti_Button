@@ -3,7 +3,7 @@ A chrome extension for when you want to celebrate (mini) milestones. It spreads 
 
 ## How to set it up:
 1. Download the project:
-   ##### Clone this repo OR click Code → Download ZIP and extract it.
+   Clone this repo OR click Code → Download ZIP and extract it.
 
 3. Edit the manifest.json file:
    By default, the extension runs on: "matches": ["https://example.com/*"]
