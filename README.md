@@ -12,7 +12,7 @@ A chrome extension for when you want to celebrate (mini) milestones. It spreads 
    Replace https://example.com/* with your desired website URL pattern.
    Example: "matches": ["https://*.mywebsite.com/*"]
    
-4. Load the extension in Chrome:
+3. Load the extension in Chrome:
    Open Chrome and go to: chrome://extensions/
    Enable Developer mode (top-right).
    Click Load unpacked and select the project folder.
