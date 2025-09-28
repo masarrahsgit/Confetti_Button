@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Button Confetti",
+  "version": "1.0",
+  "description": "Displays confetti when user clicks 'submit' or 'done' button on a specific website.",
+  "content_scripts": [
+    {
+      "matches": ["https://example.com/*"],
+      "js": ["confetti.min.js", "content.js"]
+    }
+  ]
+}
