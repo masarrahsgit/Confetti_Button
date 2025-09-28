@@ -3,19 +3,18 @@ A chrome extension for when you want to celebrate (mini) milestones. It spreads 
 
 ## How to set it up:
 1. Download the project:
-  Clone this repo OR click Code → Download ZIP and extract it.
+   Clone this repo OR click Code → Download ZIP and extract it.
 
 2. Edit the manifest.json file:
-  By default, the extension runs on: "matches": ["https://example.com/*"]
-  
-    To use it on your own site:
-    Replace https://example.com/* with your desired website URL pattern.
-    Example: "matches": ["https://*.mywebsite.com/*"]
+   By default, the extension runs on: "matches": ["https://example.com/*"]
+
+   To use it on your own site:
+   Replace https://example.com/* with your desired website URL pattern.
+   Example: "matches": ["https://*.mywebsite.com/*"]
    
-3. Load the extension in Chrome:
-  Open Chrome and go to:
-  chrome://extensions/
-  Enable Developer mode (top-right).
-  Click Load unpacked and select the project folder.
+4. Load the extension in Chrome:
+   Open Chrome and go to: chrome://extensions/
+   Enable Developer mode (top-right).
+   Click Load unpacked and select the project folder.
 
 🎉 Test is out by clicking a "submit" or "done" 🎉
