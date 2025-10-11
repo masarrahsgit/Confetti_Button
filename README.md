@@ -25,4 +25,4 @@ A chrome extension for when you want to celebrate (mini) milestones. It spreads 
 
    Click Load unpacked and select the project folder.
 
-🎉 Test is out by clicking a "submit" or "done" 🎉
+🎉 Test is out by clicking a "submit" or "done" button 🎉
